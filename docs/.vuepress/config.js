@@ -36,8 +36,14 @@ module.exports = {
                     ]
                 },
                 {
+                    title: '计算机网络',   // 必要的
+                    sidebarDepth: 1,    // 可选的, 默认值是 1
+                    children: [
+                        ['http.md', 'http发展史'],
+                    ]
+                },
+                {
                     title: '部署',
-                    collapsable: false, // 可选的, 默认值是 true,
                     sidebarDepth: 1,    // 可选的, 默认值是 1
                     children: [
                         ['npm.md', '发布自己的npm包'],
