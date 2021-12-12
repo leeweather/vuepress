@@ -33,6 +33,7 @@ module.exports = {
                     sidebarDepth: 1,    // 可选的, 默认值是 1
                     children: [
                         ['promise.md', '手写promise'],
+                        ['protoType.md', '原型链'],
                     ]
                 },
                 {
