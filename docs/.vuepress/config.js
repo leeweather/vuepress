@@ -34,6 +34,7 @@ module.exports = {
                     children: [
                         ['promise.md', '手写promise'],
                         ['protoType.md', '原型链'],
+                        ['extend.md', '继承'],
                     ]
                 },
                 {
