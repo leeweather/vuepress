@@ -35,6 +35,9 @@ module.exports = {
                         ['promise.md', '手写promise'],
                         ['protoType.md', '原型链'],
                         ['extend.md', '继承'],
+                        ['闭包.md', '闭包'],
+                        ['变量提升.md', '变量提升'],
+                        ['this.md', 'this指向'],
                     ]
                 },
                 {
@@ -70,6 +73,9 @@ module.exports = {
                     sidebarDepth: 1,    // 可选的, 默认值是 1
                     children: [
                         ['bytedance.md', '字节笔试'],
+                        ['美年大健康.md', '美年大健康'],
+                        ['小红书.md', '小红书'],
+                        ['喜马拉雅.md', '喜马拉雅'],
                     ]
                 },
             ],
